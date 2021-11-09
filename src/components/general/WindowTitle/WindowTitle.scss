@@ -1,0 +1,9 @@
+.card-title--wrapper {
+  @include FLEX("space-between", "center");
+  border-bottom: 1px solid $BORDER;
+  padding: 18px 0;
+}
+
+.card-title {
+  @include TITLE;
+}

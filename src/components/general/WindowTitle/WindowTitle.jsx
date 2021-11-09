@@ -1,7 +1,8 @@
 import React from 'react';
+import './WindowTitle.scss'
 import PropTypes from 'prop-types';
 
-const CardTitle = props => {
+const WindowTitle = (props) => {
     return (
         <div className={"card-title--wrapper"}>
             <p className={"card-title"}>{props.title}</p>
@@ -10,8 +11,8 @@ const CardTitle = props => {
     );
 };
 
-CardTitle.propTypes = {
+WindowTitle.propTypes = {
     title: PropTypes.string
 };
 
-export default CardTitle;
+export default WindowTitle;
