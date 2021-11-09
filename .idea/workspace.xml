@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbc0de90-7238-4176-b7ee-97a84695eec2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tablelearn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/general-styles/COLORS.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/general-styles/DISPLAY.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/general-styles/TEXT.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/general-styles/ZEROING.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/general-styles/index.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/icons/arrow-open-card.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/general/CardTitle/CardTitle.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/general/CardTitle/CardTitleStyle.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +94,7 @@
       <updated>1636490927276</updated>
       <workItem from="1636490930421" duration="7267000" />
       <workItem from="1636498287148" duration="145000" />
-      <workItem from="1636498444049" duration="206000" />
+      <workItem from="1636498444049" duration="641000" />
     </task>
     <servers />
   </component>
