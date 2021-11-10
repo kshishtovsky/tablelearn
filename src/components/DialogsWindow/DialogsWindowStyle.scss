@@ -1,0 +1,15 @@
+.dialog-window {
+  border: 1px solid $BORDER;
+  border-radius: 8px;
+}
+
+// DialogListItem
+.dialog-list-item__poster {
+  height: 32px;
+  width: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+}
