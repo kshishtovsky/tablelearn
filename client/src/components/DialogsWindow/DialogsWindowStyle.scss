@@ -1,0 +1,75 @@
+@import "../../assets/general-styles/index";
+
+// DialogsWindow
+.dialog-window {
+  grid-column: 1 / 7;
+}
+
+// DialogsList
+
+// DialogListTitle
+.dialogs-list-title {
+  background-color: $LIGHT-BLUE;
+  padding: 8px 0;
+  cursor: pointer;
+  &--wrapper {
+    @include FLEX(space-between, center);
+    width: 100%;
+  }
+  .__dialogs-list-title--wrapper {
+    @include FLEX($align-items: center)
+  }
+  .dialogs-list-title__line {
+    width: 4px;
+    height: 16px;
+    background-color: $BROWN;
+    margin-right: 8px;
+  }
+  .__dialogs-list-title {
+    @include TITLE;
+    position: relative;
+  }
+}
+
+// DialogsListItem
+.dialogs-list-item {
+  padding: 16px 0;
+  cursor: pointer;
+  transition: .1s ease-in-out;
+}
+
+.dialogs-list-item:hover {
+  background-color: $LIGHT-GRAY;
+}
+
+.dialogs-list-item--wrapper {
+  @include FLEX();
+  width: 100%;
+}
+
+.dialog-list-item__poster {
+  height: 32px;
+  width: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 8px;
+  font-size: 18px;
+  font-weight: 700;
+  background: $BROWN;
+  border-radius: 999px;
+}
+
+.dli__title {
+  @include TITLE();
+}
+
+.dli__last-message {
+  @include TEXT();
+  @include FLEX()
+}
+
+.dli__last-message__sender {
+  margin-right: 4px;
+  color: $GRAY_TEXT;
+}

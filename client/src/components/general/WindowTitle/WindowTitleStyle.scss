@@ -1,0 +1,21 @@
+@import "../../../assets/general-styles/index";
+
+.window-title {
+  border-bottom: 2px solid $BORDER;
+}
+
+.window-title--wrapper {
+  @include FLEX(space-between, center);
+  height: 52px;
+}
+
+.__window-title {
+  width: 100%;
+  @include CARD-TITLE;
+}
+
+.window-title__arrow {
+  cursor: pointer;
+  height: 100%;
+  @include FLEX($align-items: center)
+}
