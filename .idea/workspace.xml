@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc0de90-7238-4176-b7ee-97a84695eec2" name="Changes" comment="">
+    <list default="true" id="dbc0de90-7238-4176-b7ee-97a84695eec2" name="Changes" comment=" 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/general-styles/COLORS.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/general-styles/COLORS.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/general/CardTitle/CardTitle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/general/CardTitle/CardTitle.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/general/CardTitle/CardTitleStyle.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/general/CardTitle/CardTitleStyle.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/general-styles/DISPLAY.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/general-styles/DISPLAY.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/general/WindowTitle/WindowTitle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/general/WindowTitle/WindowTitle.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +61,8 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReaderModeSettings">
@@ -81,8 +84,20 @@
       <workItem from="1636490930421" duration="7267000" />
       <workItem from="1636498287148" duration="145000" />
       <workItem from="1636498444049" duration="1968000" />
-      <workItem from="1636500452362" duration="642000" />
+      <workItem from="1636500452362" duration="2606000" />
+      <workItem from="1636535728063" duration="49000" />
+      <workItem from="1636568391647" duration="82000" />
+      <workItem from="1636568486476" duration="1243000" />
+      <workItem from="1636569751965" duration="907000" />
     </task>
+    <task id="LOCAL-00001" summary=" 1">
+      <created>1636501281589</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636501281589</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +132,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value=" 1" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 1" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
