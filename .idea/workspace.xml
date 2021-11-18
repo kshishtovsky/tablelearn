@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbc0de90-7238-4176-b7ee-97a84695eec2" name="Changes" comment=" 1" />
+    <list default="true" id="dbc0de90-7238-4176-b7ee-97a84695eec2" name="Changes" comment=" 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/DialogsWindow/Dialogs.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/DialogsWindow/Dialogs.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/DialogsWindow/DialogsList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/DialogsWindow/DialogsList.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/server/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +51,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/server" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -51,13 +59,16 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="ReaderModeSettings">
     <option name="showLigatures" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kshishtovsky\Desktop\TableLearn\tablelearn\server" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kshishtovsky\Desktop\TableLearn\tablelearn\client" />
       <recent name="C:\Users\kshishtovsky\Desktop\TableLearn\tablelearn" />
@@ -79,7 +90,14 @@
       <workItem from="1636535728063" duration="49000" />
       <workItem from="1636568391647" duration="82000" />
       <workItem from="1636568486476" duration="1243000" />
-      <workItem from="1636569751965" duration="11485000" />
+      <workItem from="1636569751965" duration="12611000" />
+      <workItem from="1636623199328" duration="476000" />
+      <workItem from="1636623690366" duration="8754000" />
+      <workItem from="1636655771364" duration="4605000" />
+      <workItem from="1636663105710" duration="9000" />
+      <workItem from="1636663648676" duration="8574000" />
+      <workItem from="1637148330250" duration="5232000" />
+      <workItem from="1637155614638" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary=" 1">
       <created>1636501281589</created>
@@ -116,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636584614063</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary=" 1">
+      <created>1636584883083</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636584883083</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
